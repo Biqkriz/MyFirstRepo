@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+My name is Christopher, and I am currently learning software engineering. I enjoy learning new skills and improving every day. I love technology and I’m excited to grow in this field.
+I am dedicated, hardworking, and always ready to learn. This repository is one of my first steps toward becoming better in software development.
