@@ -1,1 +1,1 @@
-What I have learned how to use Git and GitHub to manage code, create branches, make commits, and collaborate with others. I am becoming more confident with the tools developers use every day.
+What I have learned from this course how to use Git and GitHub to manage code, create branches, make commits, and collaborate with others. I am becoming more confident with the tools developers use every day.
